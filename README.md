@@ -8,8 +8,8 @@ Vault Server using vagrant, virtual box and ubuntu 22.04
 Clone the repo locally by running below command 
   
 ```sh 
-git clone the repo https://github.com/ramanagali/vault-server.git
-cd vault-server
+git clone https://github.com/prafullkanade/Jenkins-vagrant.git
+cd Jenkins-vagrant
 ```
 
 ### 4. Bootstrapping Server using shell script
